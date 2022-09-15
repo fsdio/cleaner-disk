@@ -2,6 +2,7 @@
 
 echo Copyright https://www.rahsun.id
 
+cd ~
 cd storage
 cd /sdcard
 find . -name '*cache*' -exec rm -rf {} +
